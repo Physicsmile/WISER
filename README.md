@@ -1,4 +1,4 @@
-<h1 align="center">WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval</h1>
+<h1 align="center">[CVPR 2026] WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval</h1>
 
 <p align="center">
   If you find this project useful, please give us a star 🌟.
@@ -9,7 +9,7 @@
 ## 🔥 News
 
 - [x] **[2026/2/23]** Our paper has been accepted to **CVPR 2026**!
-- [x] **[2026/2/26]** We release our paper in the [arxiv](https://arxiv.org/abs/).
+- [ ] **[2026/2/27]** We release our paper in the [arxiv](https://arxiv.org/abs/).
 - [ ] Code is coming soon.
 
 
