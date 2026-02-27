@@ -73,3 +73,15 @@ WISER significantly outperforms previous methods across multiple benchmarks, ach
 
 ## 📄 Citation
 
+```bibtex
+@misc{wang2026wiserwidersearchdeeper,
+      title={WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval}, 
+      author={Tianyue Wang and Leigang Qu and Tianyu Yang and Xiangzhao Hao and Yifan Xu and Haiyun Guo and Jinqiao Wang},
+      year={2026},
+      eprint={2602.23029},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.23029}, 
+}
+```
+
