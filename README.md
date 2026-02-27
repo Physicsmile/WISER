@@ -9,7 +9,7 @@
 ## 🔥 News
 
 - [x] **[2026/2/23]** Our paper has been accepted to **CVPR 2026**!
-- [ ] **[2026/2/27]** We release our paper in the [arxiv](https://arxiv.org/abs/).
+- [x] **[2026/2/27]** We release our paper in the [arxiv](https://arxiv.org/pdf/2602.23029).
 - [ ] Code is coming soon.
 
 
