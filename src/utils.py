@@ -568,7 +568,7 @@ def check_prompt(dataset_path,task,loop,reference_names,model_name,txt_top_capti
     t2i_suggestions = []
     i2i_suggestions = []
     count=0
-    for i in tqdm.trange(648,len(relative_captions), position=1, desc='Generate suggestions with LLM...'):
+    for i in tqdm.trange(len(relative_captions), position=1, desc='Generate suggestions with LLM...'):
         t2i_suggestion = ''
         i2i_suggestion = ''
         if txt_check_index[i] == True:
