@@ -7,6 +7,9 @@
   <a href="https://arxiv.org/abs/2602.23029">
     <img src="https://img.shields.io/badge/arXiv-2602.23029-b31b1b?logo=arxiv&logoColor=white">
   </a>
+  <a href="https://huggingface.co/datasets/Physicsmile/WISER">
+    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue">
+  </a>
 </p>
 
 ## 🔥 News
