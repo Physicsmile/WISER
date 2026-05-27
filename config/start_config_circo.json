@@ -1,0 +1,68 @@
+[
+    {
+        "exp-name": "Experiment to evaluate",
+        "preload": [
+            "captions",
+            "img_paths",
+            "edited_images"
+        ],
+        "clip": "ViT-B-32",
+        "clip_choices": [
+            "ViT-bigG-14",
+            "ViT-B-32",
+            "ViT-B-16",
+            "ViT-L-14",
+            "ViT-H-14",
+            "ViT-g-14"
+        ],
+        "dataset": "circo",
+        "dataset_choices": [
+            "cirr",
+            "circo",
+            "fashioniq_dress",
+            "fashioniq_toptee",
+            "fashioniq_shirt"
+        ],
+        "split": "test",
+        "split_choices": [
+            "val",
+            "test"
+        ],
+        "dataset_path": "/home/user/datasets/CIRCO",
+        "edit_img_dir": "/home/user/datasets/Edited_Images",
+        "bagel_model_path": "/home/user/Bagel/models/BAGEL-7B-MoT",
+        "llm_prompt": "prompts.structural_modifier_prompt",
+        "openai_key":"",
+        "max_check_num": 1,
+        "LLM_model_name": "bagel",
+        "LLM_model_name_choices": [
+            "bagel"
+        ],
+        "Check_LLM_model_name": "gpt_4o",
+        "Check_LLM_model_name_choices": [
+            "gpt-4o",
+            "gpt-4o-mini",
+            "gpt-3.5-turbo",
+            "qwen-turbo"
+        ],
+        "VQA_LLM_model_name": "qwen2_5_vl_7b_instruct",
+        "VQA_LLM_model_name_choices": [
+            "gpt-4o",
+            "gpt-4o-mini", 
+            "gpt-3.5-turbo",
+            "qwen-turbo",
+            "qwen2_5_vl_7b_instruct",
+            "qwen2_5_vl_3b_instruct"
+        ],
+        "retrieval": "default",
+        "preload_modified_captions_file": "",
+        "preload_image_captions_file": "CIRCO_blip2_t5_captions.csv",
+        "preload_image_paths_file": "CIRCO_image_paths.csv",
+        "preload_edited_images_file": "CIRCO_edited_images.pkl",
+        "preload_new_captions": "",
+        "preload_suggestions": "",
+        "preload_candidates": "",
+        "preload_pseudo_targets": "",
+        "task": "task_name"
+    }
+]
